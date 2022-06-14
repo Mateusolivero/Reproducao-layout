@@ -1,0 +1,131 @@
+html{
+    background: white;
+   height: 100%;
+   width: 100%;
+ 
+   
+}
+
+
+
+img{
+    background: #212529;
+    position: absolute;
+    left: 5%;
+    top: 30px;
+  
+
+}
+
+#site{
+    height: 97%;
+    width: 18%;
+    background: #212529;
+
+
+   
+}
+
+.botaoum{
+    font-family:sans-serif;
+    color: white;
+    font-size: 19px;
+    border-style: none;
+    background: transparent;
+    position: relative;
+    left: 23%;
+    top: 150px;
+    
+    
+ 
+
+
+
+}
+
+.botaodois{
+    
+    font-family:sans-serif;
+    color: white;
+    font-size: 19px;
+    border-style: none;
+    background: transparent;
+    position: relative;
+    top: 200px;
+    left: 23%;
+
+
+}
+
+#separacao{
+    font-size: 19px;
+    color:#99896e;
+    position: relative;
+    left: 23%;
+    top: 180px;
+}
+
+.primeira{
+    width: 19.3%;
+    position: absolute;
+    left: 24.7%;
+    top: 6%;
+}
+
+.segunda{
+    width: 19.4%;
+    position: absolute;
+    left: 24.6%;
+    top: 59.5%;
+}
+
+.terceira{
+    width: 40%;
+    position: absolute;
+    left: 44%;
+    top: 6%;
+}
+
+.quarta{
+    width: 20%;
+    position: absolute;
+    left: 44%;
+    top: 31.6%;
+}
+
+.quinta{
+    width: 20%;
+    position: absolute;
+    left: 64%;
+    top: 31.6%;
+}
+
+.sexta{
+    width: 19.4%;
+    position: absolute;
+    left: 44%;
+    top: 59.4%;
+}
+
+.setima{
+    width: 16%;
+    height: 26%;
+    position: absolute;
+    left: 84%;
+    top: 6%;
+}
+.oitava{
+    width: 37%;
+    height: 26.7%;
+    position: absolute;
+    left: 63.5%;
+    top: 60.1%;
+}
+
+.nona{
+    width: 16%;
+    height: 28%;
+    position: absolute;
+    left:84%;
+    top: 32%;
+}
